@@ -10,7 +10,7 @@ const Nav = () => {
             <h1><Link to="/">Omdb</Link></h1>
             <ul>
                 <li><Link to="/omdb">Home</Link></li>
-                <li><a href="omdb/#contact">Contact</a></li>
+                <li><a href="/#contact">Contact</a></li>
             </ul>
         </div>
     </StyledNav>
