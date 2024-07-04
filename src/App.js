@@ -14,7 +14,7 @@ function App() {
       <Nav />
       <GlobalStyles />
       <Routes>
-        <Route path='/' element={<Home />}/>
+        <Route path='/omdb' element={<Home />}/>
         <Route path="/movie/:id" element={<MovieDetails />} />
       </Routes>
       <Contact />
