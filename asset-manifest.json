@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/omdb/static/js/main.03d0edad.js",
+    "main.js": "/omdb/static/js/main.c7818d66.js",
     "static/js/453.6264ff41.chunk.js": "/omdb/static/js/453.6264ff41.chunk.js",
     "index.html": "/omdb/index.html",
-    "main.03d0edad.js.map": "/omdb/static/js/main.03d0edad.js.map",
+    "main.c7818d66.js.map": "/omdb/static/js/main.c7818d66.js.map",
     "453.6264ff41.chunk.js.map": "/omdb/static/js/453.6264ff41.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.03d0edad.js"
+    "static/js/main.c7818d66.js"
   ]
 }
