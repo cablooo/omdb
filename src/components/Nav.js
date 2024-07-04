@@ -7,10 +7,9 @@ const Nav = () => {
   return (
     <StyledNav id='nav'>
         <div className="container">
-            <h1><Link to="/">Omdb</Link></h1>
+            <h1><Link to="/omdb">Omdb</Link></h1>
             <ul>
-                <li><Link to="/omdb">Home</Link></li>
-                <li><a href="contact">Contact</a></li>
+                <li><Link to="https://github.com/cablooo">Github</Link></li>
             </ul>
         </div>
     </StyledNav>
